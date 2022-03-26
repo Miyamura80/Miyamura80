@@ -1,11 +1,13 @@
-# Hello! Welcome, my name is Eito! 👋 
+# Hello! I'm Eito! 👋 
 
 ## Here's what I'm doing
 
 - 👑 I organized [Oxford Hack 2022](https://oxfordhack22.co.uk) as the executive director in record time of 1.5 months
+- 👀 I’m interested in machine learning, semantic knowledge graphs, web3, philosophy.
 - 🎤 I’m looking to have open conversations with interesting people on a podcast
-- 🥅 2022 Goals: Make progress with my startup
+- 🥅 2022 Goals: Working on my main educational platform
 - ⚡ Fun fact: I ate a tarantula for my birthday
+- 📧 To get in contact, message me on LinkedIn!
 
 
 ### Connect with me:
