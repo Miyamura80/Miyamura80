@@ -1,4 +1,4 @@
-# Hello! I'm Eito! 👋 
+# Hello! I'm Eito ⚡ A lightning rod for crazies 👋 
 
 [![Follow me on github](https://img.shields.io/github/followers/miyamura80?style=for-the-badge)](https://github.com/Miyamura80)
 
@@ -8,7 +8,7 @@
 - 👀 I’m interested in machine learning, semantic knowledge graphs, web3, philosophy.
 - 🎤 I’m looking to have open conversations with interesting people on a podcast
 - 🥅 2022 Goals: Working on my main educational platform
-- ⚡ Fun fact: I ate a tarantula for my birthday
+- 🕷️ Fun fact: I ate a tarantula for my birthday
 - 📧 To get in contact, message me on LinkedIn!
 
 
