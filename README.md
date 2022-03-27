@@ -1,5 +1,7 @@
 # Hello! I'm Eito! 👋 
 
+[![Follow me on github](https://img.shields.io/github/followers/miyamura80?style=for-the-badge)](https://github.com/Miyamura80)
+
 ## Here's what I'm doing
 
 - 👑 I organized [Oxford Hack 2022](https://oxfordhack22.co.uk) as the executive director in record time of 1.5 months
