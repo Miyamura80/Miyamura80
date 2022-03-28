@@ -1,30 +1,27 @@
 # Hello! I'm Eito ⚡ A lightning rod for crazies 👋 
 
 [![Follow me on github](https://img.shields.io/github/followers/miyamura80?style=for-the-badge)](https://github.com/Miyamura80)
+[![Follow me on Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/jackgolden80/)
+[![Add me on facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/miyamura.eito/)
+[![Connect with me on linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eito-miyamura-157305121/)
+[![Follow me on twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Eito_Miyamura)
+[![Hit count](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F{username}1212%2Fhit-counter)]
+
+<img align="centre" alt="Miyamura80's Github Streaks" src="https://github-readme-streak-stats.herokuapp.com/?user=Miyamura80">
+
+<br />
 
 ## Here's what I'm doing
 
-- 👑 I organized [Oxford Hack 2022](https://oxfordhack22.co.uk) as the executive director in record time of 1.5 months
-- 👀 I’m interested in machine learning, semantic knowledge graphs, web3, philosophy.
+
+- 👑 I was the [Oxford Hack 2022](https://oxfordhack22.co.uk) executive director to organize in record time of 1.5 months
+- 👀 I’m interested in machine learning, knowledge graphs, web3, philosophy.
 - 🎤 I’m looking to have open conversations with interesting people on a podcast
 - 🥅 2022 Goals: Working on my main educational platform
 - 🕷️ Fun fact: I ate a tarantula for my birthday
 - 📧 To get in contact, message me on LinkedIn!
 
 
-### Connect with me:
-
-<!-- [![website](./img/globe-light.svg)](http://eimi.online#gh-light-mode-only)
-[![website](./img/globe-dark.svg)](http://eimi.online#gh-dark-mode-only)
-&nbsp;&nbsp; -->
-[![website](./img/youtube-light.svg)](https://www.youtube.com/channel/UC0WHZ03hTP3c6_DVPWmUCWw#gh-light-mode-only)
-[![website](./img/youtube-dark.svg)](https://www.youtube.com/channel/UC0WHZ03hTP3c6_DVPWmUCWw#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/twitter-light.svg)](https://twitter.com/Eito_Miyamura#gh-light-mode-only)
-[![website](./img/twitter-dark.svg)](https://twitter.com/Eito_Miyamura#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/eito-miyamura-157305121/#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/eito-miyamura-157305121/#gh-dark-mode-only)
 
 ### Languages and Tools:
 
@@ -113,6 +110,11 @@
 
   <img align="left" alt="Miyamura80's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Miyamura80&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
 
+</details>
+
+<details>
+  <summary>:computer: Language Stats</summary>
+  <img align="left" alt="Miyamura80's Language Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Miyamura80"> 
 </details>
 
 [website]: http://eimi.online
