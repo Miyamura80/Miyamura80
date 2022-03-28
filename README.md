@@ -113,8 +113,8 @@
 </details>
 
 <details>
-  <summary>:computer: Language Stats</summary>
-  <img align="left" alt="Miyamura80's Language Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Miyamura80"> 
+  <summary>:computer: Profile Activity</summary>
+  <img align="left" alt="Miyamura80's Language Stats" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Miyamura80&theme=vue"> 
 </details>
 
 [website]: http://eimi.online
