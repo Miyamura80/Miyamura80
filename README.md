@@ -1,4 +1,4 @@
-# Hello! I'm Eito ⚡ A lightning rod for crazies 👋 
+# Hello! I'm Eito ⚡ A dual wielder 👋 
 
 [![Follow me on github](https://img.shields.io/github/followers/miyamura80?style=for-the-badge)](https://github.com/Miyamura80)
 [![Follow me on Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/jackgolden80/)
@@ -11,13 +11,12 @@
 
 <br />
 
-## Here's what I'm doing
+## Here's a summary about me
 
-
-- 👑 I was the [Oxford Hack 2022](https://oxfordhack22.co.uk) executive director to organize in record time of 1.5 months
+- 👑 I'm the president of the [Oxford Blockchain Society](http://oxfordblockchain.co.uk)
+- 🕒 I was the [Oxford Hack 2022](https://oxfordhack22.co.uk) executive director to organize in record time of 1.5 months
 - 👀 I’m interested in machine learning, knowledge graphs, web3, philosophy.
-- 🎤 I’m looking to have open conversations with interesting people on a podcast
-- 🥅 2022 Goals: Working on my main educational platform
+- 🥅 2023 Goals: Launching my startup 
 - 🕷️ Fun fact: I ate a tarantula for my birthday
 - 📧 To get in contact, message me on LinkedIn!
 
