@@ -11,15 +11,10 @@
 
 <br />
 
-## Here's a summary about me
-
-- 👑 I'm the president of the [Oxford Blockchain Society](http://oxfordblockchain.co.uk)
-- 🕒 I was the [Oxford Hack 2022](https://oxfordhack22.co.uk) executive director to organize in record time of 1.5 months
-- 👀 Interests: machine learning, knowledge graphs, reinforcement learning, web3, philosophy.
-- 🥅 2023 Goals: To launch my stealth project
-- 🕷️ Fun fact: I ate a tarantula for my birthday
-- 📧 To get in contact, message me on LinkedIn!
-
+## 👀 Currently interested in:
+- Diffusion guided RL trajectory models
+- GPU Optimizations
+- Zero Knowledge Proofs 
 
 
 ### Languages and Tools:
