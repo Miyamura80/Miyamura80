@@ -1,4 +1,4 @@
-# Eito Miyamura ♨️ Co-Founder Sentou Technologies
+# Eito Miyamura ♨️ Co-Founder GatlingX
 
 [![Follow me on github](https://img.shields.io/github/followers/miyamura80?style=for-the-badge)](https://github.com/Miyamura80)
 [![Follow me on Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/jackgolden80/)
