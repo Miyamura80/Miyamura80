@@ -11,9 +11,10 @@
 
 ## About me
 
-- Deterministic AI Security at edison.watch
-- Newsletter: eito.substack.com
-- Alum Oxford Computer Science
+- 🏗️ Deterministic AI Security at edison.watch
+- 📰 Newsletter: eito.substack.com
+- 🎓 Alum Oxford Computer Science
+- 🤖 prev. wayve.ai
 
 <br />
 
