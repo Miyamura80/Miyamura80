@@ -3,16 +3,16 @@
 
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eito-miyamura-157305121/)
 [![twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Eito_Miyamura)
-[![Hit count](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F{username}1212%2Fhit-counter)]
-
-<img align="centre" alt="Miyamura80's Github Streaks" src="https://github-readme-streak-stats.herokuapp.com?user=Miyamura80">
 
 <br />
 
 ## 👀 Currently interested in:
 - Diffusion guided RL trajectory models
-- GPU Optimizations
-- Zero Knowledge Proofs 
+- GPU Optimisations
+- Robotics
+- Video/Image Segmentation
+- AI Data Security
+- Search Indexes
 
 
 ### Languages and Tools:
