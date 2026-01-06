@@ -1,5 +1,6 @@
 # Eito Miyamura
 
+> Student of technology, markets, probabilities
 
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eito-miyamura-157305121/)
 [![twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Eito_Miyamura)
@@ -8,7 +9,15 @@
 
 <br />
 
-## 👀 Currently interested in:
+## About me
+
+- Deterministic AI Security at edison.watch
+- Newsletter: eito.substack.com
+- Alum Oxford Computer Science
+
+<br />
+
+## Currently interests:
 - Diffusion guided RL trajectory models
 - GPU Optimisations
 - Robotics
