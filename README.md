@@ -14,7 +14,7 @@
 - 🏗️ Deterministic AI Security at [edison.watch](edison.watch)
 - 📰 Newsletter: [eito.substack.com](eito.substack.com)
 - 🎓 Alum Oxford Computer Science
-- 🤖 prev. wayve.ai
+- 🤖 prev. self-driving infra @ wayve.ai
 
 <br />
 
