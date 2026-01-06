@@ -13,6 +13,7 @@
 - GPU Optimisations
 - Robotics
 - Video/Image Segmentation
+- Implications of HBM Supply Shortage
 - AI Data Security
 - Search Indexes
 
