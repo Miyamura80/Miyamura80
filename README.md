@@ -11,8 +11,8 @@
 
 ## About me
 
-- 🏗️ Deterministic AI Security at [edison.watch](edison.watch) | AI Security Blog: [edisonwatch.substack.com](edisonwatch.substack.com)
-- 📰 Newsletter: [eito.substack.com](eito.substack.com)
+- 🏗️ Deterministic AI Security at [edison.watch](https://edison.watch) | AI Security Blog: [edisonwatch.substack.com](https://edisonwatch.substack.com)
+- 📰 Newsletter: [eito.substack.com](https://eito.substack.com)
 - 🎓 Alum Oxford Computer Science
 - 🤖 prev. self-driving infra @ wayve.ai
 
