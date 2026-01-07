@@ -19,12 +19,14 @@
 <br />
 
 ## Currently interests:
+
+- AI Data Security
+- Video/Image Segmentation
+- Implications of HBM Supply Shortage
+- Distributed Systems
 - Diffusion guided RL trajectory models
 - GPU Optimisations
 - Robotics
-- Video/Image Segmentation
-- Implications of HBM Supply Shortage
-- AI Data Security
 - Search Indexes
 
 
