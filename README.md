@@ -23,6 +23,11 @@
 - [OpenEdison](https://x.com/Eito_Miyamura/status/1973420565810888810?s=20): Deterministic data exfiltration prevention of AI agents exfiltrating data
 - Hackbot (TBA): Automated hacking of smart contracts, distributed systems for vulnerability validation
 
+## Agent-ready Templates
+- [Python Template](https://github.com/Miyamura80/Python-Template): DB, Unified Auth, Payments, Docs, batteries included.
+- [Tauri Template](https://github.com/Miyamura80/Tauri-Template): Cross-platform desktop app. CLI-testing, Screenshotting VM, Docs, batteries included
+
+
 <br />
 
 ## Currently interests:
