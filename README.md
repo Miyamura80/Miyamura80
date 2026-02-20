@@ -23,7 +23,11 @@
 - [OpenEdison](https://x.com/Eito_Miyamura/status/1973420565810888810?s=20): Deterministic data exfiltration prevention of AI agents exfiltrating data
 - Hackbot (TBA): Automated hacking of smart contracts, distributed systems for vulnerability validation
 
-## 🎃 Fun projects
+## 🎃 Fun / Weekend projects
+
+- [🎙🔒ZKMicrophone](https://github.com/Miyamura80/ZKMicrophone): Trusted audio in the age of deepfakes; ZK-SNARK-attested microphone to prove authenticity and privacy.
+
+Resources
 
 - [Unhinged](https://github.com/Miyamura80/Unhinged): Prompt your partner preference - automated swiping machine
 
