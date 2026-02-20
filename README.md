@@ -15,6 +15,7 @@
 - 📰 Newsletter: [eito.substack.com](https://eito.substack.com)
 - 🎓 Alum Oxford Computer Science
 - 🤖 prev. self-driving infra @ wayve.ai
+<img width="305" height="107" alt="Screenshot 2026-02-20 at 20 05 41" src="https://github.com/user-attachments/assets/071b3d5f-a025-4369-815d-2e7af53f186e" />
 
 
 ## 💎 Most interesting work
