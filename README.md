@@ -23,16 +23,16 @@
 - [OpenEdison](https://x.com/Eito_Miyamura/status/1973420565810888810?s=20): Deterministic data exfiltration prevention of AI agents exfiltrating data
 - Hackbot (TBA): Automated hacking of smart contracts, distributed systems for vulnerability validation
 
-## 🎃 Fun / Weekend projects
+### 🎃 Fun / Weekend projects
 
 - [🎙🔒ZKMicrophone](https://github.com/Miyamura80/ZKMicrophone): Trusted audio in the age of deepfakes; ZK-SNARK-attested microphone to prove authenticity and privacy.
 - [Unhinged](https://github.com/Miyamura80/Unhinged): Prompt your partner preference - automated swiping machine
 
-## 🗜️ Agent-ready Templates
+### 🗜️ Agent-ready Templates
 - [Python Template](https://github.com/Miyamura80/Python-Template): DB, Unified Auth, Payments, Docs, batteries included.
 - [Tauri Template](https://github.com/Miyamura80/Tauri-Template): Cross-platform desktop app. CLI-testing, Screenshotting VM, Docs, batteries included
 
-## 🪜 Configurations
+### 🪜 Configurations
 
 - [Coding Agent Config](https://github.com/Miyamura80/code-agent-config): My configuration for coding agents
 - [MacOS Setup](https://github.com/Miyamura80/MacOS-setup/tree/main): Resources to help get started with MacOS.
