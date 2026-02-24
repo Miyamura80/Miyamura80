@@ -32,6 +32,7 @@
 ### 🗜️ Agent-ready Templates
 - [Python Template](https://github.com/Miyamura80/Python-Template): DB, Unified Auth, Payments, Docs, batteries included.
 - [Tauri Template](https://github.com/Miyamura80/Tauri-Template): Cross-platform desktop app. CLI-testing, Screenshotting VM, Docs, batteries included
+- [Bun Template](https://github.com/Miyamura80/Bun-Template): Bun template for frontend.
 
 ### 🪜 Configurations
 
