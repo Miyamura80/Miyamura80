@@ -32,9 +32,11 @@
 
 ### 🗜️ Agent-ready Templates
 - [Python Template](https://github.com/Miyamura80/Python-Template): DB, Unified Auth, Payments, Docs, batteries included.
+- [Electron Template](https://github.com/Miyamura80/Electron-Template): Cross-platform desktop app. CLI-testing, Screenshotting VM, Docs, batteries included
 - [Tauri Template](https://github.com/Miyamura80/Tauri-Template): Cross-platform desktop app. CLI-testing, Screenshotting VM, Docs, batteries included
 - [Bun Template](https://github.com/Miyamura80/Bun-Template): Bun template for frontend.
 - [CLI Template](https://github.com/Miyamura80/CLI-Template#): CLI tool template (python) with batteries included. Auto-install, updates, and many more.
+- [MCP Template](https://github.com/Miyamura80/MCP-Template): MCP template (python) with x402 payments, release, included. 
 
 ### 🪜 Configurations
 
