@@ -20,7 +20,7 @@
 
 ## 💎 Most interesting work
 
-- [GPU-EVM](https://github.com/Edison-Watch/GPU-EVM) | [Announcement post](https://x.com/Eito_Miyamura/status/1782381921538109617?s=20): 100x Acceleration of VM execution via parallelisation across 10,000 cores of GPU instead of 32 cores of CPU
+- [GPU-EVM](https://github.com/Edison-Watch/GPU-EVM) | [Announcement post](https://x.com/Eito_Miyamura/status/1782381921538109617?s=20): World's fastest implementation of VM by 200x, through execution via parallelisation across 10,000 cores of GPU instead of 32 cores of CPU 
 - [desktest CLI](https://github.com/Edison-Watch/desktest): "Playwright for desktop apps": Prompt what to test → agent tests your app E2E in a Docker container → review trajectory, if happy, codify trajectory into deterministic scripts for CI
 - [OpenEdison](https://x.com/Eito_Miyamura/status/1973420565810888810?s=20): Deterministic data exfiltration prevention of AI agents exfiltrating data
 - Hackbot (TBA): Automated hacking of smart contracts, distributed systems for vulnerability validation
