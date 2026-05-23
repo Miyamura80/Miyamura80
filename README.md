@@ -26,7 +26,7 @@
 - Hackbot (TBA): Automated hacking of smart contracts, distributed systems for vulnerability validation
 
 ### 🎃 Fun / Weekend projects
-
+- [🧢Bluetooth Cap](https://github.com/Miyamura80/Bluetooth-Cap): A Python CLI for controlling a BLE LED matrix cap 
 - [🎙🔒ZKMicrophone](https://github.com/Miyamura80/ZKMicrophone): Trusted audio in the age of deepfakes; ZK-SNARK-attested microphone to prove authenticity and privacy.
 - [Unhinged](https://github.com/Miyamura80/Unhinged): Prompt your partner preference - automated swiping machine
 
